@@ -17,10 +17,10 @@ Es un cifrado de sustitución en que cada letra se reemplaza en otro, esta nueva
 
 
 
-> ![Una imagen cualquiera](formula.PNG)
+> ![Una imagen cualquiera](assets/docs/formula.PNG)
 
 **FÓRMULA A UTILIZAR (ASCII)**
-> ![Una imagen cualquiera](formula_2.PNG)
+> ![Una imagen cualquiera](assets/docs/formula_2.PNG)
 
 **CONSIDERACIONES ESPECÍFICAS**
 
@@ -34,4 +34,4 @@ Es un cifrado de sustitución en que cada letra se reemplaza en otro, esta nueva
 4. El usuario no debe ingresar un campo vacío o que contenga números.
 
 **DIAGRAMA DE FLUJO**
-> ![Una imagen cualquiera](DF.jpeg)
+> ![Una imagen cualquiera](assets/docs/DF.jpeg)
