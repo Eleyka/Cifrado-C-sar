@@ -34,4 +34,4 @@ Es un cifrado de sustitución en que cada letra se reemplaza en otro, esta nueva
 4. El usuario no debe ingresar un campo vacío o que contenga números.
 
 **DIAGRAMA DE FLUJO**
-[Una imagen cualquiera](Diagrama_de_flujo.PNG)
+> ![Una imagen cualquiera](DF.jpeg)
